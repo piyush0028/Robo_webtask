@@ -1,0 +1,36 @@
+body {
+    background-color: #212121;
+    color: white;
+}
+.my-edit {
+    border-radius: 10px;
+}
+.project {
+    display: flex;
+    gap: 3rem;   
+    width: 100%; 
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.card {
+    background-color: #d0e01f;
+}
+
+.btn-my {
+    background-color: white;
+}
+
+.px-2 {
+    color: white;
+    /* background-color: white; */
+}
+
+.my-img {
+    border-radius: 10px;
+    height: 50vh;
+    width: 55vh;
+    opacity: 0.8;
+}
